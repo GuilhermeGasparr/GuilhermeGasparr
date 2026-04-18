@@ -41,13 +41,13 @@ I am passionate about learning, building, and continuously evolving as a develop
 <picture> <img align="right" src="img/tenor.gif" width = 100%></picture>
 
 <a href="#">
-  <img width="100%" align="center" src="https://gh-rs.vercel.app/api/top-langs?username=HumDavid&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777&layout=compact" />
+  <img width="100%" align="center" src="https://gh-rs.vercel.app/api/top-langs?username=GuilhermeGasparr&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777&layout=compact" />
 </a>
 
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumDavid&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeGasparr&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
  </br>
 </p>
      
@@ -59,4 +59,4 @@ I am passionate about learning, building, and continuously evolving as a develop
 
 <hr>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/HumDavid/HumDavid/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/GuilhermeGasparr/GuilhermeGasparr/output/github-contribution-grid-snake-dark.svg)
