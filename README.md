@@ -1,16 +1,52 @@
-## Hi there 👋
+<h2 align="center">Hi!, I'm Guilherme Gaspar 😁</h2>
 
-<!--
-**GuilhermeGasparr/GuilhermeGasparr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
+</br>
 
-Here are some ideas to get you started:
+<table width="100%" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <tr>
+    <td width="60%">
+     
+## 🛠️ Skills
+
+#### Languages
+
+![Languages](https://skillicons.dev/icons?i=c,java,kotlin,ts,js,css,html,&theme=dark)
+
+#### Engines & Frameworks
+
+![EnginesAndFrameworks](https://skillicons.dev/icons?i=react,unity,nextjs,tailwind,materialui)     
+   
+#### Database / Backend
+
+![DatabaseAndBackend](https://skillicons.dev/icons?i=nodejs,mysql,)
+#### Tools
+
+![Tools](https://skillicons.dev/icons?i=npm,yarn,git,github,figma,vite,vscode.androidstudio)
+
+</td>
+    <td>
+
+<picture> <img align="right" src="img/totoro.gif" width = 100px></picture>
+
+<a href="#">
+  <img width="100%" align="center" src="https://gh-rs.vercel.app/api/top-langs?username=HumDavid&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777&layout=compact" />
+</a>
+
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumDavid&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
+ </br>
+</p>
+     
+  </td>
+ </tr>
+</table>
+
+<br>
+
+<hr>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/HumDavid/HumDavid/output/github-contribution-grid-snake-dark.svg)
