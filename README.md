@@ -22,7 +22,7 @@ I am passionate about learning, building, and continuously evolving as a develop
 
 #### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,java,kotlin,ts,js,css,html,&theme=dark)
+![Languages](https://skillicons.dev/icons?i=c,java,kotlin,py,ts,js,css,html,&theme=dark)
 
 #### Engines & Frameworks
 
