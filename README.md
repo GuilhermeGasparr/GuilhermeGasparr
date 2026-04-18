@@ -57,5 +57,3 @@ I am passionate about learning, building, and continuously evolving as a develop
 <br>
 
 <hr>
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/GuilhermeGasparr/GuilhermeGasparr/output/github-contribution-grid-snake-dark.svg)
