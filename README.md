@@ -22,18 +22,17 @@ I am passionate about learning, building, and continuously evolving as a develop
 
 #### Languages
 
-![Languages](https://skillicons.dev/icons?i=c,java,kotlin,py,ts,js,css,html,&theme=dark)
-
+![Languages](https://skillicons.dev/icons?i=c,java,kotlin,py,ts,js,css,html,&perline=5)
 #### Engines & Frameworks
 
 ![EnginesAndFrameworks](https://skillicons.dev/icons?i=react,unity,nextjs,tailwind,materialui)     
    
 #### Database / Backend
 
-![DatabaseAndBackend](https://skillicons.dev/icons?i=nodejs,mysql,)
+![DatabaseAndBackend](https://skillicons.dev/icons?i=nodejs,mysql)
 #### Tools
 
-![Tools](https://skillicons.dev/icons?i=npm,yarn,git,github,figma,vite,vscode,androidstudio,idea)
+![Tools](https://skillicons.dev/icons?i=npm,yarn,git,github,figma,vite,vscode,androidstudio,idea,&perline=5)
 
 </td>
     <td>
