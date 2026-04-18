@@ -4,9 +4,9 @@
 </br>
 <h3>About Me:</h3>
 
-I'm 18 years old and currently pursuing a Bachelor's degree in Computer Science at the Universidade Estadual do Ceará (UECE). My academic journey is focused on software development, with a strong interest in building scalable systems and creating impactful applications.
+I'm 18 years old and currently pursuing a Bachelor's degree in Computer Science at the Universidade Estadual do Ceará (UECE).
 
-I am a member of the Software Engineering and Distributed Systems Group (GESAD) and the Development and Innovation Laboratory (LDI), where I collaborate on research and practical projects involving modern software engineering practices and distributed architectures.
+I am a member of the Software Engineering and Distributed Systems Group (GESAD) and the Development and Innovation Laboratory (LDI).
 
 Currently, I am applying my knowledge in real-world projects as a Mobile Developer, contributing to initiatives such as Dell Technologies and Conecta. Through these experiences, I work with mobile technologies, software architecture, and collaborative development workflows, aiming to continuously improve code quality, performance, and user experience.
 
