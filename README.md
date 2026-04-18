@@ -38,7 +38,7 @@ I am passionate about learning, building, and continuously evolving as a develop
 </td>
     <td>
 
-<picture> <img align="right" src="img/city.gif" width = 100%></picture>
+<picture> <img align="right" src="img/tenor.gif" width = 100%></picture>
 
 <a href="#">
   <img width="100%" align="center" src="https://gh-rs.vercel.app/api/top-langs?username=HumDavid&theme=algolia&show_icons=true&bg_color=00000000&title_color=cc7acc&text_color=777&layout=compact" />
