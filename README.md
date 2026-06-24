@@ -46,7 +46,8 @@ I am passionate about learning, building, and continuously evolving as a develop
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeGasparr&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
+ <img width="100%"
+src="https://streak-stats.demolab.com?user=GuilhermeGasparr&background=00000000&hide_border=true&theme=highcontrast&currStreakNum=777&sideNums=777&stroke=777&dates=777&sideLabels=777"/>
  </br>
 </p>
      
